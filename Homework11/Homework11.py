@@ -7,13 +7,13 @@ class Vehicle:
     max_speed = 'amount of max_speed'
     brand = 'brand'
     model = 'model'
-    ENGINE_ON = False  # Or True
+    engine_on = False  # Or True
 
     def engine_start(self):
-        self.ENGINE_ON = True
+        self.engine_on = True
 
     def engine_stop(self):
-        self.ENGINE_ON = False
+        self.engine_on = False
 
 
 class Car(Vehicle):
@@ -23,13 +23,13 @@ class Car(Vehicle):
     conditioner = 'conditioner'
     horsepower = 'amount of horsepower'
     video_camera = 'videocamera'
-    RADIO_ON = False  # Or True
+    radio_on = False  # Or True
 
     def radio_turn_on(self):
-        self.RADIO_ON = True
+        self.radio_on = True
 
     def radio_turn_off(self):
-        self.RADIO_ON = False
+        self.radio_on = False
 
 
 class Truck(Car):
