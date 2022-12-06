@@ -1,0 +1,110 @@
+ROUND 1
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+
+ROUND 2
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 3
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 4
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+
+ROUND 5
+Player choice is: Scissors
+AI choice is: Paper
+Congrats, You won!
+
+ROUND 6
+Player choice is: Paper
+AI choice is: Rock
+Congrats, You won!
+
+ROUND 7
+Player choice is: Scissors
+AI choice is: Paper
+Congrats, You won!
+
+ROUND 8
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 9
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 10
+Player choice is: Scissors
+AI choice is: Scissors
+DRAW!
+
+ROUND 11
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 12
+Player choice is: Scissors
+AI choice is: Rock
+Congrats to AI, he won!
+
+ROUND 13
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 14
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 15
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 16
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 17
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+
+ROUND 18
+Player choice is: Rock
+AI choice is: Scissors
+Congrats, You won!
+
+ROUND 19
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 20
+Player choice is: R
+AI choice is: Scissors
+Did you write your figure properly? Replay!
+
+ROUND 21
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 22
+Player choice is: R
+AI choice is: Scissors
+Did you write your figure properly? Replay!
+
