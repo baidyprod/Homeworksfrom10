@@ -108,3 +108,8 @@ Player choice is: R
 AI choice is: Scissors
 Did you write your figure properly? Replay!
 
+ROUND 23
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+

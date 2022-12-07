@@ -90,7 +90,7 @@ def time_counter(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
         start = time.time()
-        res = func(args, kwargs)
+        res = func(*args, **kwargs)
         end = time.time()
         print('\033[1;30mThe game lasted', round((end - start), 2), 'Seconds')
         return res
