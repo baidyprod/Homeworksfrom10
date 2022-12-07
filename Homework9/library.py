@@ -89,12 +89,8 @@ def game():
 def time_counter(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
-        if len(args) == 0 and len(kwargs) == 0:
-            start = time.time()
-            res = func()
-        else:
-            start = time.time()
-            res = func(args, kwargs)
+        start = time.time()
+        res = func(*args, **kwargs)
         end = time.time()
         print('\033[1;30mThe game lasted', round((end - start), 2), 'Seconds')
         return res
