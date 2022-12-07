@@ -113,3 +113,13 @@ Player choice is: Rock
 AI choice is: Paper
 Congrats to AI, he won!
 
+ROUND 24
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 25
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+
