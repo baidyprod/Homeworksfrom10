@@ -60,19 +60,18 @@ def log_writer():
     '''
     func writes logs for rounds of game
     '''
-    file = open('game_results.txt', 'r')
-    empty_lines = 0
-    for line in file:
-        if not line.strip():
-            empty_lines += 1
-    game_count = empty_lines + 1
-    file.close()
-    file = open('game_results.txt', 'a')
-    file.write(f'ROUND {game_count}\n')
-    file.write(f'Player choice is: {player_figure.capitalize()}\n')
-    file.write(f'AI choice is: {ai_figure.capitalize()}\n')
-    file.write(f'{text_message}\n\n')
-    file.close()
+    with open('game_results.txt', 'r') as file:
+        empty_lines = 0
+        for line in file:
+            if not line.strip():
+                empty_lines += 1
+        game_count = empty_lines + 1
+
+    with open('game_results.txt', 'a') as file:
+        file.write(f'ROUND {game_count}\n')
+        file.write(f'Player choice is: {player_figure.capitalize()}\n')
+        file.write(f'AI choice is: {ai_figure.capitalize()}\n')
+        file.write(f'{text_message}\n\n')
 
 
 def game():

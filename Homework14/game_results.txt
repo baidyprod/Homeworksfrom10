@@ -124,7 +124,47 @@ AI choice is: Paper
 Congrats to AI, he won!
 
 ROUND 26
-Player choice is: Rock
+Player choice is: Paper
 AI choice is: Scissors
+Congrats to AI, he won!
+
+ROUND 27
+Player choice is: Paper
+AI choice is: Scissors
+Congrats to AI, he won!
+
+ROUND 28
+Player choice is: Rock
+AI choice is: Rock
+DRAW!
+
+ROUND 29
+Player choice is: Scissors
+AI choice is: Paper
+Congrats, You won!
+
+ROUND 30
+Player choice is: Pa
+AI choice is: Paper
+Did you write your figure properly? Replay!
+
+ROUND 31
+Player choice is: Paper
+AI choice is: Paper
+DRAW!
+
+ROUND 32
+Player choice is: Rock
+AI choice is: Paper
+Congrats to AI, he won!
+
+ROUND 33
+Player choice is: Scissors
+AI choice is: Scissors
+DRAW!
+
+ROUND 34
+Player choice is: Paper
+AI choice is: Rock
 Congrats, You won!
 
