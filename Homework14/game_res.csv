@@ -1,0 +1,6 @@
+Round,Human,AI,Result
+1,Rock,Paper,AI
+2,Paper,Rock,Human
+3,Scissors,Rock,AI
+4,Pa,Scissors,The game didn't happen
+5,Paper,Paper,DRAW!
